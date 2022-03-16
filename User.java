@@ -6,5 +6,8 @@ public class User {
       System,out.println("Group sharing is working of project")
         System.out.println("HEllo");
   }
+  
+  public void userStories(){
+System.out.println("connect to mHealth for easy access  indias best health consultances");
 
 }
